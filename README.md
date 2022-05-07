@@ -1,5 +1,5 @@
-# chatApp
-ChatApp made using nodejs and socket.io
+# ChatApp made using nodejs and socket.io
+
 
 
 
